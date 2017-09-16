@@ -1,0 +1,3 @@
+pmm_core:
+    resource: "@PMMCoreBundle/Resources/config/routing.yml"
+    prefix:   /

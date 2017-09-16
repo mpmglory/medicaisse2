@@ -1,0 +1,11 @@
+pmm_core_patient:
+    resource: "@PMMCoreBundle/Resources/config/routing/patient.yml"
+    prefix:   /patient
+
+pmm_core_medicament:
+    resource: "@PMMCoreBundle/Resources/config/routing/medicament.yml"
+    prefix:   /medicament
+
+pmm_core_commande:
+    resource: "@PMMCoreBundle/Resources/config/routing/commande.yml"
+    prefix:   /commande
